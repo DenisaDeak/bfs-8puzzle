@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639413797 source:d:\uvt\an 3\ai\project1 - ai\main.cpp
+	<iostream>
+	<queue>
+	<sstream>
+	<set>
+
